@@ -2,4 +2,5 @@ version: STSv1
 mode: enforce
 mx: *.mail-redirect.de
 mx: *.mail-redirect.eu
+mx: *.andreasnicklaus.de
 max_age: 15638400
